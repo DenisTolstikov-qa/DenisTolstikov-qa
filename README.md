@@ -1,4 +1,5 @@
-### Hi there 👋
+<h2 align="center">Меня зовут Денис, я Тестировщик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<p align="center"><a href="https://ia-stepanov.ru/"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></a></p>
 
 <!--
 **DenisTolstikov-qa/DenisTolstikov-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
